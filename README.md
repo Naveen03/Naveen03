@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Naveen03
+👋 Hi, I’m @Naveen03
 - 👀 I’m interested in image processing, computer vision and deep learning
 -   Basically I am not a researcher but am a research student,
 -   I try to read, code to understand the recent developemnts of computer vision
